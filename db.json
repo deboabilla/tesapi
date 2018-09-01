@@ -1,0 +1,24 @@
+{
+"produk":[
+[{"id":1,"name":"Armadillo, seven-banded","category":"Green"},
+{"id":2,"name":"Mexican wolf","category":"Red"},
+{"id":3,"name":"Yellow mongoose","category":"Red"},
+{"id":4,"name":"White-rumped vulture","category":"Purple"},
+{"id":5,"name":"Desert tortoise","category":"Green"},
+{"id":6,"name":"White-throated monitor","category":"Fuscia"},
+{"id":7,"name":"Swamp deer","category":"Red"},
+{"id":8,"name":"Snake, green vine","category":"Turquoise"},
+{"id":9,"name":"Lizard, mexican beaded","category":"Orange"},
+{"id":10,"name":"Crane, brolga","category":"Crimson"},
+{"id":11,"name":"Badger, american","category":"Maroon"},
+{"id":12,"name":"American buffalo","category":"Khaki"},
+{"id":13,"name":"Screamer, southern","category":"Crimson"},
+{"id":14,"name":"Cat, jungle","category":"Blue"},
+{"id":15,"name":"Sunbird, lesser double-collared","category":"Violet"},
+{"id":16,"name":"Giant otter","category":"Puce"},
+{"id":17,"name":"Turkey, australian brush","category":"Violet"},
+{"id":18,"name":"Otter, canadian river","category":"Green"},
+{"id":19,"name":"Gonolek, burchell's","category":"Indigo"},
+{"id":20,"name":"Sheep, stone","category":"Teal"}]
+]
+}
