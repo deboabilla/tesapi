@@ -1,6 +1,6 @@
 {
 "produk":[
-[{"id":1,"name":"Armadillo, seven-banded","category":"Green"},
+{"id":1,"name":"Armadillo, seven-banded","category":"Green"},
 {"id":2,"name":"Mexican wolf","category":"Red"},
 {"id":3,"name":"Yellow mongoose","category":"Red"},
 {"id":4,"name":"White-rumped vulture","category":"Purple"},
@@ -19,6 +19,6 @@
 {"id":17,"name":"Turkey, australian brush","category":"Violet"},
 {"id":18,"name":"Otter, canadian river","category":"Green"},
 {"id":19,"name":"Gonolek, burchell's","category":"Indigo"},
-{"id":20,"name":"Sheep, stone","category":"Teal"}]
+{"id":20,"name":"Sheep, stone","category":"Teal"}
 ]
 }
